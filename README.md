@@ -17,7 +17,41 @@ Explore my portfolio: [imam-faheem.github.io/22pwbcs0912-WP-fall2023/](https://i
   - **Degree:** Bachelor's degree, Computer Science
   - **Duration:** Oct 2022 – Oct 2026
 
-## Skills
+# Skills
 
-Web Design | Full-Stack Development | TypeScript | Computer Science | Web Development | Front-End Development | Responsive Web Design | React.js | JavaScript | Java
+## Web Development
+
+- **Front-End:**
+  - JavaScript
+  - React
+  - HTML
+  - CSS (including SASS/SCSS)
+  - Bootstrap
+  - Tailwind
+  - jQuery
+
+- **Back-End:**
+  - Express
+  - Node.js
+
+## Programming Languages
+
+- C++
+- Object-Oriented Programming (OOP)
+- Java
+- Assembly language MIPS 32 Bits
+
+## Design Tools
+
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe XD
+- CAD AND CAM
+- Balsamiq
+
+## Frameworks
+
+- Nest.js
+- Next.js
 
