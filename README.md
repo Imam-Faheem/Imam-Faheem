@@ -6,7 +6,7 @@
 
 ## About Me
 
-Experienced front-end developer with a passion for crafting visually stunning and user-friendly websites and web applications. Proficient in HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, and React.js. Constant learner, staying updated with industry trends. Excited about networking, seeking new opportunities, and growing in my career.
+Experienced MERN Stack developer with a focus on creating visually appealing and user-friendly websites and web applications. Proficient in the complete web development stack, including HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, React.js,Next.js, Nest.js, Node.js, and Express. Constantly learning and staying updated with industry trends. Excited about networking, seeking new opportunities, and advancing in my career.
 
 ## Portfolio
 
