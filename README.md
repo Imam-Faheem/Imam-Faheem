@@ -10,19 +10,6 @@ Experienced front-end developer with a passion for crafting visually stunning an
 
 Explore my portfolio: [imam-faheem.github.io/22pwbcs0912-WP-fall2023/](https://imam-faheem.github.io/22pwbcs0912-WP-fall2023/)
 
-## Experience
-
-### Zones IT Solutions
-
-- **Position:** Web Developer
-- **Duration:** Feb 2021 – Present (3 yrs)
-- **Responsibilities:** [Include specific responsibilities or achievements]
-
-### Quantum Tech Academy
-
-- **Position:** Frontend Developer
-- **Duration:** Feb 2023 – Jun 2023 (5 mos)
-- **Responsibilities:** [Include specific responsibilities or achievements]
 
 ## Education
 
