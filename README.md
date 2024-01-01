@@ -6,7 +6,7 @@
 
 ## About Me
 
-Experienced #**MERN Stack developer**# with a focus on creating visually appealing and user-friendly websites and web applications. Proficient in the complete web development stack, including HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, React.js,Next.js, Nest.js, Node.js, and Express. Constantly learning and staying updated with industry trends. Excited about networking, seeking new opportunities, and advancing in my career.
+Experienced # **MERN Stack developer** with a focus on creating visually appealing and user-friendly websites and web applications. Proficient in the complete web development stack, including HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, React.js,Next.js, Nest.js, Node.js, and Express. Constantly learning and staying updated with industry trends. Excited about networking, seeking new opportunities, and advancing in my career.
 
 ## Portfolio
 
