@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a results-driven **MERN Stack Engineer** who creates web applications that engage users and drive business growth. I leverage expertise in HTML, CSS (SASS, Bootstrap/Tailwind), JavaScript, React, Express, Typescript, and MongoDB. Always staying up-to-date with trends, I'm eager to connect with fellow professionals and explore exciting opportunities. Let's collaborate on something amazing!
+Passionate **MERN Stack developer** building engaging web apps that drive user growth and business success. Skilled in HTML, CSS (SASS, Bootstrap/Tailwind), JavaScript, React, Express, Typescript, and MongoDB. Always learning and keeping an eye on the latest tech trends. I'm eager to connect with fellow professionals and explore exciting opportunities. Let's collaborate on something amazing!
 
 ## Portfolio
 
