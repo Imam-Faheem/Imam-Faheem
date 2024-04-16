@@ -52,8 +52,6 @@ Explore my portfolio: [imam-faheem.github.io/22pwbcs0912-WP-fall2023/](https://i
 - CAD AND CAM
 - Balsamiq
 
-## Frameworks
+## Animation
 
-- Nest.js
-- Next.js
-
+![GIF](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
