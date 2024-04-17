@@ -54,4 +54,4 @@ Explore my portfolio: [imam-faheem.github.io/22pwbcs0912-WP-fall2023/](https://i
 
 ## Animation
 
-![Image]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_720_1280/0/1688467501707?e=1718841600&v=beta&t=B-9FoL7qVzoSKksNCQ2mUH96T83tfgATzSLHuIPSs1E))
+![Image](https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_720_1280/0/1688467501707?e=1718841600&v=beta&t=B-9FoL7qVzoSKksNCQ2mUH96T83tfgATzSLHuIPSs1E))
