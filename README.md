@@ -1,8 +1,8 @@
 # Imam Faheem
 
-[![Header Image](https://media.licdn.com/dms/image/D4D16AQGMoFpelnYdAg/profile-displaybackgroundimage-shrink_350_1400/0/1712251358697?e=1718841600&v=beta&t=hx4UgOtkzz0kMiVqKeGPmxTWNV62Xvrx_ow3kQAZGj8)](https://www.linkedin.com/in/imamfaheem)
+[![Header Image](https://media.licdn.com/dms/image/D4D16AQGMoFpelnYdAg/profile-displaybackgroundimage-shrink_350_1400/0/1712251358697?e=1727913600&v=beta&t=v0CEHRkf5k0YBOU3PpzKh4xgeE4QbOcn67yDy4kew4U)](https://www.linkedin.com/in/imamfaheem)
 
-📍 Karak District | ✉️ imamfaheem768@gmail.com | 📱 +923312878148 | 💼 [LinkedIn](https://www.linkedin.com/in/imamfaheem) | 🌐 [Portfolio](https://22pwbcs0912-wp-fall2023.vercel.app/)
+📍 Karak District | ✉️ imamfaheem768@gmail.com | 📱 +923312878148 | 💼 [LinkedIn](https://www.linkedin.com/in/imamfaheem) | 🌐 [Portfolio]([https://imam-faheem.vercel.app))
 
 ## About Me
 
@@ -10,7 +10,7 @@ Passionate **MERN Stack developer** building engaging web apps that drive user g
 
 ## Portfolio
 
-Explore my portfolio: [imam-faheem.github.io/22pwbcs0912-WP-fall2023/](https://imam-faheem.github.io/22pwbcs0912-WP-fall2023/)
+Explore my portfolio: [imam-faheem.github.io/22pwbcs0912-WP-fall2023/](https://imam-faheem.vercel.app)
 
 
 ## Education
