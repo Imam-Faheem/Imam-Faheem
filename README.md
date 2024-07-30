@@ -10,7 +10,7 @@ Passionate **MERN Stack developer** building engaging web apps that drive user g
 
 ## Portfolio
 
-Explore my portfolio: [imam-faheem.github.io/22pwbcs0912-WP-fall2023/](https://imam-faheem.vercel.app)
+Explore my portfolio: [https://imam-faheem.vercel.app/](https://imam-faheem.vercel.app)
 
 
 ## Education
