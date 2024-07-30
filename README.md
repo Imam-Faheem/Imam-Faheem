@@ -2,7 +2,7 @@
 
 [![Header Image](https://media.licdn.com/dms/image/D4D16AQGMoFpelnYdAg/profile-displaybackgroundimage-shrink_350_1400/0/1712251358697?e=1727913600&v=beta&t=v0CEHRkf5k0YBOU3PpzKh4xgeE4QbOcn67yDy4kew4U)](https://www.linkedin.com/in/imamfaheem)
 
-📍 Karak District | ✉️ imamfaheem768@gmail.com | 📱 +923312878148 | 💼 [LinkedIn](https://www.linkedin.com/in/imamfaheem) | 🌐 [Portfolio](https://imam-faheem.vercel.app)
+📍 Karak District | ✉️ imamfaheem768@gmail.com | 📱 +923312878148 | 💼 [LinkedIn](https://www.linkedin.com/in/imamfaheem) | 🌐 [Portfolio](https://imamfaheem.com)
 
 ## About Me
 
@@ -10,7 +10,7 @@ Passionate **MERN Stack developer** building engaging web apps that drive user g
 
 ## Portfolio
 
-Explore my portfolio: [https://imam-faheem.vercel.app/](https://imam-faheem.vercel.app)
+Explore my portfolio: [https://imam-faheem.vercel.app/](https://imamfaheem.com)
 
 
 ## Education
