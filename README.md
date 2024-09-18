@@ -57,12 +57,3 @@ Check out my work: [**Explore My Portfolio**](https://imam-faheem.vercel.app/)
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6&logoWidth=30) | | | | |
 
 
-
-
----
-
-![Additional Image](https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_720_1280/0/1688467501707?e=1718841600&v=beta&t=B-9FoL7qVzoSKksNCQ2mUH96T83tfgATzSLHuIPSs1E)
-
----
-
-Feel free to adjust this layout as needed to best fit your style and preferences.
