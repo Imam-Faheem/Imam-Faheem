@@ -14,14 +14,117 @@
 
 ## About Me
 
-I am a **MERN Stack Developer** dedicated to building engaging and scalable web applications. My expertise spans a variety of technologies, including:
+## 🖥️ Frontend Skills
 
-- **Frontend:** HTML, CSS (SASS, Bootstrap/Tailwind), JavaScript, React
-- **Backend:** Express, Node.js
-- **Databases:** mySQL, MongoDB
-- **Additional:** Typescript, Next.js
+**Languages & Frameworks**:  
+HTML5, CSS3 (SASS, SCSS), JavaScript (ES6+), TypeScript
 
-I am passionate about continuous learning and keeping up with the latest tech trends. Let's connect and explore how we can work together on exciting projects!
+**Modern JavaScript Libraries & Frameworks**:  
+React.js (with hooks, server-side rendering), Next.js
+
+**CSS Frameworks & Libraries**:  
+Tailwind CSS, Material-UI, Styled Components, Emotion.js
+
+**State Management**:  
+Redux (with Redux Toolkit), Context API, React Query
+
+**Static Site Generators**:  
+Next.js (Static Generation/Incremental Static Regeneration)
+
+**Web Performance Optimization**:  
+Lazy Loading, Code Splitting, Critical CSS and much more
+
+**Version Control & Collaboration**:  
+Git and GitHub
+
+---
+
+## 🔧 Backend Skills
+
+**Languages & Frameworks**:  
+Node.js (Express.js)
+
+**API Design**:  
+RESTful APIs, gRPC
+
+**Authentication & Authorization**:  
+OAuth2, JWT, Passport.js, Auth0, Firebase Authentication
+
+**Real-time Capabilities**:  
+WebSockets, Socket.io
+
+**Microservices Architecture**:  
+Event-Driven Microservices, Domain-Driven Design
+
+**Security**:  
+OAuth 2.0, OpenID Connect, Helmet.js, HSTS, TLS/SSL, Rate Limiting, API Key management, RBAC (Role-Based Access Control), SSO (Single Sign-On),  DDoS protection
+
+**Serverless Architectures**:  
+AWS Lambda, Google Cloud Functions, Azure Functions
+
+**Caching & Performance**:  
+Redis, Node Cache
+
+---
+
+## 🗄️ Databases
+
+**SQL Databases**:  
+PostgreSQL (partitioning, advanced indexing, JSONB), MySQL
+
+**NoSQL Databases**:  
+MongoDB (Aggregation Framework, Replication, Sharding)
+
+**Search & Analytics**:  
+Elasticsearch
+
+**Database ORMs**:  
+TypeORM, Sequelize, Mongoose
+
+**Advanced Database Features**:  
+Replication, sharding, horizontal scaling, data partitioning
+
+---
+
+## ☁️ DevOps & Infrastructure
+
+**Containerization & Orchestration**:  
+Docker (multi-stage builds, Docker Compose), Kubernetes (Helm, Kustomize, Istio, Keda)
+
+**Cloud Platforms**:  
+AWS (EC2, S3), Google Cloud Platform (GCP), Heroku
+
+**Load Balancing & Reverse Proxy**:  
+AWS ELB/ALB
+
+**Monitoring & Observability**:  
+Grafana, Sentry
+
+---
+
+## 🛠️ Additional Skills & Tools
+
+**Version Control**:  
+Git
+
+**API Documentation**:  
+Postman
+
+**Message Queues & Event-Driven Architectures**:  
+Redis Streams
+
+**Server Management & Performance**:  
+PM2, Load Balancing (AWS), horizontal scaling
+
+**Design Patterns & Architecture**:  
+MVC, MVP, DDD (Domain-Driven Design)
+
+---
+
+## 🧰 Other Advanced Tools & Technologies
+
+**Agile & Project Management**:  
+Jira, Trello
 
 ---
 
