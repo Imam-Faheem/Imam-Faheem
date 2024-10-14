@@ -13,7 +13,7 @@
 ---
 
 ## About Me
-I am Imam Faheem, a dedicated software developer who enjoys building efficient and easy-to-use applications. My skills include working with modern tools like React, Node.js, and Next.js, focusing on both frontend and backend development. I am experienced in creating responsive designs, optimizing performance, and ensuring secure, scalable solutions. I am committed to continuous learning and enjoy working on projects that solve real-world problems with effective technology.
+I am Imam Faheem, a software developer with 3 years of experience in building efficient, scalable, and easy-to-use applications. I specialize in both frontend and backend development, working with modern tools such as React, Node.js, and Next.js to create robust, user-friendly solutions. My expertise extends to designing responsive interfaces, optimizing web performance, and implementing secure, scalable solutions.
 
 ## Frontend Skills
 
