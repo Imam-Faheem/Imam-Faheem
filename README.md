@@ -4,7 +4,7 @@
 
 ---
 
-**📍 Location:** Karak District  
+**📍 Location:** Peshawar, Pakistan  
 **✉️ Email:** [imamfaheem768@gmail.com](mailto:imamfaheem768@gmail.com)  
 **📱 Phone:** +923312878148  
 **💼 LinkedIn:** [Imam Faheem](https://www.linkedin.com/in/imamfaheem)  
