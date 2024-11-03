@@ -1,6 +1,6 @@
 # Imam Faheem
 
-[![Header Image](https://media.licdn.com/dms/image/D4D16AQGMoFpelnYdAg/profile-displaybackgroundimage-shrink_350_1400/0/1712251358697?e=1727913600&v=beta&t=v0CEHRkf5k0YBOU3PpzKh4xgeE4QbOcn67yDy4kew4U)](https://www.linkedin.com/in/imamfaheem)
+[![Header Image](./linkdin-cover-updated-2.jpg)](https://www.linkedin.com/in/imamfaheem)
 
 
 ---
