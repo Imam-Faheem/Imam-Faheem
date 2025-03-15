@@ -22,6 +22,18 @@ Software developer with 3 years of experience building efficient, scalable appli
 
 [Portfolio](https://imamfaheem.com) | [LinkedIn](#) | [Twitter](#)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imam-Faheem&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imam-Faheem&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Imam-Faheem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -50,11 +62,6 @@ Software developer with 3 years of experience building efficient, scalable appli
 - **Cloud:** AWS (EC2, S3), GCP, Heroku
 - **Monitoring:** Grafana, Sentry
 - **CI/CD:** GitHub Actions
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imam-Faheem&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imam-Faheem&layout=compact&theme=radical)
 
 ## 🎓 Education
 
