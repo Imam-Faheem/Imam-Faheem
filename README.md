@@ -1,4 +1,3 @@
-# Imam Faheem
 
 [![Header Image](./linkdin-cover-updated-2.jpg)](https://www.linkedin.com/in/imamfaheem)
 
@@ -13,135 +12,51 @@
 
 ---
 
-## About Me
-I am Imam Faheem, a software developer with 3 years of experience in building efficient, scalable, and easy-to-use applications. I specialize in both frontend and backend development, working with modern tools such as React, Node.js, and Next.js to create robust, user-friendly solutions. My expertise extends to designing responsive interfaces, optimizing web performance, and implementing secure, scalable solutions.
+# Imam Faheem
 
-## Frontend Skills
+> Frontend & Backend Developer | React | Node.js | Next.js
 
-### Languages & Frameworks:
-- HTML5, CSS3 (SASS, SCSS), JavaScript (ES6+), TypeScript
+## 👨‍💻 About Me
 
-### Modern JavaScript Libraries & Frameworks:
-- React.js (with hooks, server-side rendering), Next.js
+Software developer with 3 years of experience building efficient, scalable applications. I specialize in both frontend and backend development, creating robust, user-friendly solutions with modern tech stacks.
 
-### CSS Frameworks & Libraries:
-- Tailwind CSS, Material-UI, Styled Components, Emotion.js
+[Portfolio](https://imamfaheem.com) | [LinkedIn](#) | [Twitter](#)
 
-### State Management:
-- Redux (with Redux Toolkit), Context API, React Query
+## 🛠️ Tech Stack
 
-### Static Site Generators:
-- Next.js (Static Generation/Incremental Static Regeneration)
+### Frontend
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frameworks:** React.js, Next.js
+- **Styling:** Tailwind CSS, Material-UI, Styled Components, Emotion.js
+- **State Management:** Redux Toolkit, Context API, React Query
+- **Performance:** Lazy Loading, Code Splitting, Critical CSS
 
-### Web Performance Optimization:
-- Lazy Loading, Code Splitting, Critical CSS and much more
+### Backend
+- **Core:** Node.js, Express.js
+- **API Design:** RESTful APIs, gRPC
+- **Authentication:** OAuth2, JWT, Passport.js, Auth0, Firebase Auth
+- **Real-time:** WebSockets, Socket.io
+- **Architecture:** Microservices, Domain-Driven Design, Serverless
+- **Security:** OAuth 2.0, OpenID Connect, Helmet.js, RBAC, SSO
 
-### Version Control & Collaboration:
-- Git and GitHub
+### Databases
+- **SQL:** PostgreSQL, MySQL
+- **NoSQL:** MongoDB
+- **Search:** Elasticsearch
+- **ORMs:** TypeORM, Sequelize, Mongoose
 
----
+### DevOps
+- **Containerization:** Docker, Kubernetes
+- **Cloud:** AWS (EC2, S3), GCP, Heroku
+- **Monitoring:** Grafana, Sentry
+- **CI/CD:** GitHub Actions
 
-## Backend Skills
+## 📊 GitHub Stats
 
-### Languages & Frameworks:
-- Node.js (Express.js)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imam-Faheem&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imam-Faheem&layout=compact&theme=radical)
 
-### API Design:
-- RESTful APIs, gRPC
+## 🎓 Education
 
-### Authentication & Authorization:
-- OAuth2, JWT, Passport.js, Auth0, Firebase Authentication
-
-### Real-time Capabilities:
-- WebSockets, Socket.io
-
-### Microservices Architecture:
-- Event-Driven Microservices, Domain-Driven Design
-
-### Security:
-- OAuth 2.0, OpenID Connect, Helmet.js, HSTS, TLS/SSL, Rate Limiting, API Key management, RBAC (Role-Based Access Control), SSO (Single Sign-On), DDoS protection
-
-### Serverless Architectures:
-- AWS Lambda, Google Cloud Functions, Azure Functions
-
-### Caching & Performance:
-- Redis, Node Cache
-
----
-
-## Databases
-
-### SQL Databases:
-- PostgreSQL (partitioning, advanced indexing, JSONB), MySQL
-
-### NoSQL Databases:
-- MongoDB (Aggregation Framework, Replication, Sharding)
-
-### Search & Analytics:
-- Elasticsearch
-
-### Database ORMs:
-- TypeORM, Sequelize, Mongoose
-
-### Advanced Database Features:
-- Replication, sharding, horizontal scaling, data partitioning
-
----
-
-## DevOps & Infrastructure
-
-### Containerization & Orchestration:
-- Docker (multi-stage builds, Docker Compose), Kubernetes (Helm, Kustomize, Istio, Keda)
-
-### Cloud Platforms:
-- AWS (EC2, S3), Google Cloud Platform (GCP), Heroku
-
-### Load Balancing & Reverse Proxy:
-- AWS ELB/ALB
-
-### Monitoring & Observability:
-- Grafana, Sentry
-
----
-
-## Additional Skills & Tools
-
-### Version Control:
-- Git
-
-### API Documentation:
-- Postman
-
-### Message Queues & Event-Driven Architectures:
-- Redis Streams
-
-### Server Management & Performance:
-- PM2, Load Balancing (AWS), horizontal scaling
-
-### Design Patterns & Architecture:
-- MVC, MVP, DDD (Domain-Driven Design)
-
----
-
-## Other Advanced Tools & Technologies
-
-### Agile & Project Management:
-- Jira, Trello
-
----
-
-## Portfolio
-
-Check out my work: [**Explore My Portfolio**](https://imamfaheem.com)
-
----
-
-## Education
-
-**University of Engineering & Technology Peshawar**  
-**Bachelor's Degree in Computer Science**  
-**Duration:** Oct 2022 – Oct 2026
-
----
-
+- **Bachelor's in Computer Science** - University of Engineering & Technology Peshawar (Oct 2022 - Oct 2026)
 
