@@ -19,7 +19,7 @@
 
 ## 🏆 Current Impact & Featured Work
 
-### 🎯 [UseMaktab] | Full-Stack Developer @ Algorithm Company
+### 🎯 [Maktab] | Full-Stack Developer @Algorithm
 **Challenge**: Build educational platform from zero to market-ready product  
 **Solution**: Complete full-stack application with modern architecture  
 **Impact**: 
@@ -29,7 +29,7 @@
 - 🔄 **Rapid iteration** - Startup environment requiring quick pivots and feature delivery
 
 **Tech Stack**: React.js, Node.js, Express.js, PostgreSQL, Docker, AWS  
-[🔗 Live Demo](https://imamfaheem.com) | [📱 Portfolio Details](https://imamfaheem.com)
+[🔗 Live Demo](https://usemaktab.com) | [📱 Portfolio Details](https://imamfaheem.com)
 
 ### 🤖 [AI Agent Development] | Current Project
 **Innovation**: Building intelligent automation agents for business processes  
