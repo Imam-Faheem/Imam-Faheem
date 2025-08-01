@@ -1,10 +1,11 @@
 [![Header Image](./linkdin-cover-updated-2.jpg)](https://www.linkedin.com/in/imamfaheem)
 
-# Software Engineer | Full-Stack Developer | Product Builder
+# Software Engineer | Product Builder | [![Download CV](https://img.shields.io/badge/Download%20CV-1e3a8a?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=374151&color=1e3a8a)](https://imam-faheem.github.io/imam-faheem-resume/)
 
 **2+ years building scalable products** • **Concept-to-revenue specialist** • **15-member team contributor**
 
 🌐 [Portfolio](https://imam-faheem.vercel.app) | 📧 [imamfaheem768@gmail.com](mailto:imamfaheem768@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/imamfaheem) | 📍 Peshawar, Pakistan
+
 
 ---
 
