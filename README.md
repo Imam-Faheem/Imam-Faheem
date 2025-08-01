@@ -4,7 +4,7 @@
 
 **2+ years building scalable products** • **Concept-to-revenue specialist** • **15-member team contributor**
 
-🌐 [Portfolio](https://imamfaheem.com) | 📧 [imamfaheem768@gmail.com](mailto:imamfaheem768@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/imamfaheem) | 📍 Peshawar, Pakistan
+🌐 [Portfolio](https://imam-faheem.vercel.app) | 📧 [imamfaheem768@gmail.com](mailto:imamfaheem768@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/imamfaheem) | 📍 Peshawar, Pakistan
 
 ---
 
